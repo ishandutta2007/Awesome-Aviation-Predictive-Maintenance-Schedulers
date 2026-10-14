@@ -1,27 +1,38 @@
-# Awesome Aviation Predictive Maintenance Schedulers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# ✈️ Awesome Aviation Predictive Maintenance Schedulers
 
-> A curated list of production-grade SaaS platforms, enterprise MRO suites, and open-source GitHub projects for **Aviation Predictive Maintenance Schedulers**, fleet health analytics, Remaining Useful Life (RUL) estimation, and condition-based aircraft maintenance.
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Aviation Predictive Maintenance Schedulers Banner" width="100%" />
+</p>
 
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ishandutta2007/Awesome-Aviation-Predictive-Maintenance-Schedulers/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Aviation-Predictive-Maintenance-Schedulers/graphs/commit-activity)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/ishandutta2007/Awesome-Aviation-Predictive-Maintenance-Schedulers/blob/main/README.md#how-to-contribute)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Aviation-Predictive-Maintenance-Schedulers.svg?style=social&label=Star)](https://github.com/ishandutta2007/Awesome-Aviation-Predictive-Maintenance-Schedulers/stargazers)
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
+  <a href="https://www.trackawesomelist.com/ishandutta2007/Awesome-Aviation-Predictive-Maintenance-Schedulers/"><img src="https://www.trackawesomelist.com/badge.svg" alt="Track Awesome List" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Aviation-Predictive-Maintenance-Schedulers/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Aviation-Predictive-Maintenance-Schedulers/blob/main/README.md#how-to-contribute"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Aviation-Predictive-Maintenance-Schedulers/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Aviation-Predictive-Maintenance-Schedulers.svg?style=social&label=Star" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
----
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Commercial Enterprise Platforms](#saas--commercial-enterprise-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Key Industry Datasets & Benchmarks](#key-industry-datasets--benchmarks)
-- [Architecture Blueprint for Custom Schedulers](#architecture-blueprint-for-custom-schedulers)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer & Regulatory Notice](#disclaimer--regulatory-notice)
+> 🛫 A curated collection of production-grade SaaS platforms, enterprise MRO software suites, and open-source GitHub projects for **Aviation Predictive Maintenance Schedulers**, fleet reliability analytics, Remaining Useful Life (RUL) estimation, and condition-based aircraft maintenance.
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
+
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Commercial Enterprise Platforms](#-saas--commercial-enterprise-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📊 Key Industry Datasets & Benchmarks](#-key-industry-datasets--benchmarks)
+- [🏗️ Architecture Blueprint for Custom Schedulers](#️-architecture-blueprint-for-custom-schedulers)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [💖 Support](#-support)
+- [⚖️ Disclaimer & Regulatory Notice](#️-disclaimer--regulatory-notice)
+
+---
+
+## 🌐 Sector Overview & Market Dynamics
 
 The global **aviation predictive maintenance market** is valued at approximately **$4.2 billion to $5.5 billion in 2025–2026** and is projected to surpass **$6.9 billion before 2030**, expanding at a compound annual growth rate (CAGR) of over 11%.
 
@@ -29,7 +40,7 @@ The sector exhibits **moderate concentration at the top**—dominated by heavywe
 
 ---
 
-## SaaS & Commercial Enterprise Platforms
+## 🏢 SaaS & Commercial Enterprise Platforms
 
 The table below catalogs leading commercial SaaS platforms and enterprise MRO suites powering predictive health analytics, fleet scheduling, and aircraft turnaround optimization. Entries are sorted descending by the vendor's scale (**Market Valuation / Annual Revenue**).
 
@@ -48,7 +59,7 @@ The table below catalogs leading commercial SaaS platforms and enterprise MRO su
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 Explore community-driven, transparent, and self-hosted tools for Remaining Useful Life (RUL) modeling, C-MAPSS benchmark training, digital twins, and MRO scheduling. 
 
@@ -156,7 +167,7 @@ Repositories are sorted descending by GitHub stargazers count, with real-time so
 
 ---
 
-## Key Industry Datasets & Benchmarks
+## 📊 Key Industry Datasets & Benchmarks
 
 Model training and validation rely on recognized aviation industry telemetry datasets:
 
@@ -167,7 +178,7 @@ Model training and validation rely on recognized aviation industry telemetry dat
 
 ---
 
-## Architecture Blueprint for Custom Schedulers
+## 🏗️ Architecture Blueprint for Custom Schedulers
 
 ```
    ┌────────────────────────────────────────────────────────┐
@@ -200,7 +211,7 @@ Model training and validation rely on recognized aviation industry telemetry dat
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
 Contributions are highly appreciated! Help keep this ecosystem comprehensive, current, and valuable to aerospace engineers and developers worldwide:
 
@@ -213,7 +224,27 @@ Contributions are highly appreciated! Help keep this ecosystem comprehensive, cu
 
 ---
 
-## Disclaimer & Regulatory Notice
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Aviation-Predictive-Maintenance-Schedulers&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Aviation-Predictive-Maintenance-Schedulers&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for exploring and utilizing the **Awesome Aviation Predictive Maintenance Schedulers** ecosystem! 
+
+If you find this repository valuable for your research, airline operations, or engineering workflow, please consider:
+- ⭐ **Starring** the repository on GitHub to boost discoverability.
+- 🍴 **Forking** and contributing new platforms, benchmarks, or research papers.
+- 📢 **Sharing** with aviation enthusiasts, data scientists, and MRO professionals.
+- ☕ **Buying a coffee / sponsoring** the maintainer via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support keeps this directory open, thoroughly researched, and continuously updated!
+
+---
+
+## ⚖️ Disclaimer & Regulatory Notice
 
 - **Information Only**: This repository is a community-curated directory compiled for technical research, benchmarking, and architectural evaluation. It does not constitute formal operational or airworthiness advice.
 - **Regulatory Compliance**: All modifications to aircraft maintenance schedules, interval escalations, and line operations must comply with certified airworthiness authorities (FAA, EASA, CAAC, UK CAA) and approved Aircraft Maintenance Programs (AMP).
